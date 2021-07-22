@@ -43,7 +43,7 @@ Philucka: This world seems to be perpetually covered in storms. The atmosphere i
 ## Alpha Centauri C
 Proxima C: This world orbits extremely close to its very cold host star. It is a barren volcanic world with no atmosphere.
 
-Kappa: This ice giant is very far from its cold host star, making it the coldest known planet. Almost all of the atmosphere has frozen and fallen to the ground.
+Kappa: This ice giant is very far from its cold host star, making it the coldest known planet. Almost all of the atmosphere has frozen and fallen to the ground. Warning: high gravity.
 
 # Vita
 A star system full of life. Most of the planets here are super earths, with gravity so high you won't be able to jump up a full block without assistance. Make sure to bring a jetpack.
