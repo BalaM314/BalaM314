@@ -70,7 +70,7 @@ The host star is extremely hot.
 
 Igneus: The most insanely scorched world we've ever known. It orbits so close to the host star we're amazed it even exists. It spins at a rate that may cause motion sickness. Low conentrations of osmium ore were detected below the surface.
 
-Halidon: A gas giant with materials that it absolutely should not have. The extremely corrosive atmosphere is full of fluorine, chlorine, and krypton. If there were any moons, they have certainly been dissolved. A large amount of some inert substance will be necessary to warp to this world, lest your space station get dissolved. Teflon might work.
+Halidon: A gas giant with materials that it absolutely should not have. The extremely corrosive atmosphere is full of fluorine, chlorine, and krypton. If there were any moons, they have certainly been dissolved. A large amount of some inert substance will be necessary to warp to this world, lest your space station get corroded into nothing. Teflon might work.
 
 Extremis B: The only planet in this system that is even remotely habitable... except its gravity is nearly 6 times that of earth. Significant terrain anomalies were detected. 
 
