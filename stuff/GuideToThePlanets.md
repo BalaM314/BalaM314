@@ -4,24 +4,25 @@ Mercury: a barren volcanic world with no atmosphere and low gravity. It orbits e
 
 Venus: a superheated volcanic world covered by an extremely thick atmosphere. The oceans are made of sulfuric acid.
 
-Earth: The place we all call home.
+Earth: The place we all call home. It has one moon:
+- Luna: The moon
 
 Mars: a barren world slightly smaller than our own. With an extremely thin atmosphere and frigid temperatures, you'll want to bring your spacesuit.
 
 Jupiter: the largest planet in our solar system. It has no surface, so you can only land on its moons(which all have low gravity and no atmosphere):
-> Io: This world's core is being heated by Jupiter's tidal forces, and is the most volcanically active in our solar system.
-> Europa: An ice-ball world. Recent studies show that there may be liquid water under its surface.
-> Ganymede: The largest moon in the solar system, even larger than Mercury.
+- Io: This world's core is being heated by Jupiter's tidal forces, and is the most volcanically active in our solar system.
+- Europa: An ice-ball world. Recent studies show that there may be liquid water under its surface.
+- Ganymede: The largest moon in the solar system, even larger than Mercury.
 
 Saturn: A gas giant famous for its large rings. It has two small visitable moons:
-> Titan: A world with an atmosphere so thick you could fly if you had wings. Sadly it's not made of oxygen, and it's freezing cold, but its oceans of oil might make the trip worth it.
-> Enceladus: A world similar to Europa, but much smaller. Satellites have detected some strange plumes of water above its surface[NYI].
+- Titan: A world with an atmosphere so thick you could fly if you had wings. Sadly it's not made of oxygen, and it's freezing cold, but its oceans of oil might make the trip worth it.
+- Enceladus: A world similar to Europa, but much smaller. Satellites have detected some strange plumes of water above its surface[NYI].
 
 Uranus: A sideways gas giant with only one visitable moon:
-> Miranda: A small moon with extreme terrain. It is home to the tallest cliff face in the solar system, and the gravity is so low you can jump dozens of meters.
+- Miranda: A small moon with extreme terrain. It is home to the tallest cliff face in the solar system, and the gravity is so low you can jump dozens of meters.
 
 Neptune: A freezing gas giant with only one visitable moon:
-> Triton: A mysterious moon, being the only one in the solar system to rotate backwards. Gravity is extremely low.
+- Triton: A mysterious moon, being the only one in the solar system to rotate backwards. Gravity is extremely low.
 
 # Alpha Centauri
 The closest star system to Sol. Unlike our own, it has 3 stars. One is hotter than our sun, one is slightly colder, and the third red dwarf orbits extremely far away from the rest. There are 7 alien planets to explore.
@@ -30,7 +31,7 @@ The closest star system to Sol. Unlike our own, it has 3 stars. One is hotter th
 Novus: A hellish world with a thick, albeit unbreathable, atmosphere. It orbits extremely close to its hot host star, which makes it more scorched than Mercury.
 
 Terra Nova: The best candidate we know of for a second Earth. With a breathable atmosphere, the gravity is negligibly higher, with the same day length. It has some small rings, and one moon.
-> Luna Nova: Unlike any moon seen so far, this one is barely habitable. Some sections of it are covered in a jungle. The atmosphere is borderline breathable.
+- Luna Nova: Unlike any moon seen so far, this one is barely habitable. Some sections of it are covered in a jungle. The atmosphere is borderline breathable.
 
 Hubble: A red gas giant with no moons. It has unusually high levels of xenon.
 
@@ -52,10 +53,10 @@ Vita A: A hot, but not scorched, planet covered in mesas. It has 10% more gravit
 Vita B: An alien jungle with high gravity. The atmosphere is breathable. Visitors to this planet should be prepared to encounter lifeforms.
 
 Vita C: A true water world with crushing gravity more than twice Earth's. Our sensors detected low evidence for rings. It has one moon:
-> Vita C1: a moon with redwood and birch forests on its surface. The atmosphere is breathable with tolerable gravity.
+- Vita C1: a moon with redwood and birch forests on its surface. The atmosphere is breathable with tolerable gravity.
 
 Vita D: A very large swamp. Gravity is 170% earths, and a space suit is not necessary. This world likely has rings. There is one moon:
-> Vita D1: an alien moon. Our sensors detected large quantities of anomalous life forms. Extreme caution is advised.
+- Vita D1: an alien moon. Our sensors detected large quantities of anomalous life forms. Extreme caution is advised.
 
 Vita E: This planet is the farthest out in its system. It has a thin atmosphere, but high gravity. A space suit is not required, although you may get quite cold. There are no moons.
 
@@ -74,4 +75,4 @@ Halidon: A gas giant with materials that it absolutely should not have. The extr
 Extremis B: The only planet in this system that is even remotely habitable... except its gravity is nearly 6 times that of earth. Significant terrain anomalies were detected. 
 
 Irradium: The most ludicrous planet we've ever detected. Our sensors, which we replaced thrice, say that the atmosphere of this gas giant is full of radon and gaseous uranium. Clearly this planet has been heavily irradiated, and shielding is required to warp here. It has one moon:
-> Irradon: This moon has been irradiated just as much as Irradium; the entire thing is a nuclear wasteland. It rotates extremely fast. Due to extremely strange materials below its surface an exotic material will be required to travel here.
+- Irradon: This moon has been irradiated just as much as Irradium; the entire thing is a nuclear wasteland. It rotates extremely fast. Due to extremely strange materials below its surface an exotic material will be required to travel here.
