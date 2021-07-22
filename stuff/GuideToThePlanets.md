@@ -5,7 +5,7 @@ Mercury: a barren volcanic world with no atmosphere and low gravity. It orbits e
 Venus: a superheated volcanic world covered by an extremely thick atmosphere. The oceans are made of sulfuric acid.
 
 Earth: The place we all call home. It has one moon:
-- Luna: The moon
+- Luna: The moon. No atmosphere and low gravity. Helium-3 can be mined from its surface.
 
 Mars: a barren world slightly smaller than our own. With an extremely thin atmosphere and frigid temperatures, you'll want to bring your spacesuit.
 
