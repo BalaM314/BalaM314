@@ -1,5 +1,6 @@
 # Sol
 Our home system.
+
 Mercury: a barren volcanic world with no atmosphere and low gravity. It orbits extremely close to the Sun and is scorched because of that.
 
 Venus: a superheated volcanic world covered by an extremely thick atmosphere. The oceans are made of sulfuric acid.
@@ -68,7 +69,7 @@ Nothing else is known: go explore it!
 Nearly every planet in this star system made us question whether our sensors were malfunctioning. Any trips to this system should be conducted with extreme caution.
 The host star is extremely hot.
 
-Igneus: The most insanely scorched world we've ever known. It orbits so close to the host star we're amazed it even exists. It spins at a rate that may cause motion sickness. Low conentrations of osmium ore were detected below the surface.
+Igneus: The most insanely scorched world we've ever known. It orbits so close to the host star we're amazed it even exists. It spins at a rate that may cause motion sickness. Large conentrations of osmium and iridium ore were detected below the surface.
 
 Halidon: A gas giant with materials that it absolutely should not have. The extremely corrosive atmosphere is full of fluorine, chlorine, and krypton. If there were any moons, they have certainly been dissolved. A large amount of some inert substance will be necessary to warp to this world, lest your space station get corroded into nothing. Teflon might work.
 
