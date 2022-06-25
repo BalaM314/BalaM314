@@ -17,6 +17,7 @@ Really well:
 * Javascript: second best language of all time
 * Typescript: MOST EPIC LANGUAGE OF ALL TIME
 * HTML: definitely a programming language
+
 Decently:
 * Java: not as bad as I thought it was.
 * Python: yes I am the only person in the entire universe that doesn't like python.
