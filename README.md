@@ -1,16 +1,16 @@
 # Hello, I'm BalaM314!
 Typescript developer making cool stuff.
 ## Projects
-* Untitled Electron Game: epic factory building game that's in early alpha.
-* Einsteinium: a NuclearCraft reactor planner
-* Omnifactory Tweaked: a fork of the Omnifactory minecraft modpack with tweaks that I like.
-* TestMod1: a Minecraft meme mod.
-* ComplexGrapher: a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
-* Interstellar: an awesome Discord theme.
-* MindustryLauncher: a command-line launcher for Mindustry.
-* mlogx: A transpiler for Mindustry Logic.
-* msch: A javascript library for parsing Mindustry schematics.
-* msch-generate: An (unfinished) tool to build Mindustry schematics automatically.
+* [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): epic factory building game that's in early alpha.
+* [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner
+* [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Omnifactory minecraft modpack with tweaks that I like.
+* [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod.
+* [ComplexGrapher]:(https://github.com/BalaM314/ComplexGrapher) a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
+* [Interstellar]:(https://github.com/BalaM314/Interstellar) an awesome Discord theme.
+* [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
+* [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
+* [msch](https://github.com/BalaM314/msch): A javascript library for parsing Mindustry schematics.
+* [msch-generate](https://github.com/BalaM314/msch-generate): An (unfinished) tool to build Mindustry schematics automatically.
 ## Programming languages I know
 
 Really well:
