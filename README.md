@@ -5,8 +5,8 @@ Typescript developer making cool stuff.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner
 * [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Omnifactory minecraft modpack with tweaks that I like.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod.
-* [ComplexGrapher]:(https://github.com/BalaM314/ComplexGrapher) a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
-* [Interstellar]:(https://github.com/BalaM314/Interstellar) an awesome Discord theme.
+* [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
+* [Interstellar](https://github.com/BalaM314/Interstellar): an awesome Discord theme.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
 * [msch](https://github.com/BalaM314/msch): A javascript library for parsing Mindustry schematics.
