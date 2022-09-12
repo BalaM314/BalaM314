@@ -3,7 +3,7 @@ Typescript developer making cool stuff.
 ## Projects
 * [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): epic factory building game that's in early alpha.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner
-* [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Omnifactory minecraft modpack with tweaks that I like.
+* [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Nomifactory minecraft modpack with tweaks that I like.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod.
 * [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar](https://github.com/BalaM314/Interstellar): an awesome Discord theme.
