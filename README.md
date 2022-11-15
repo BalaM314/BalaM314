@@ -21,7 +21,7 @@ Typescript developer making cool stuff.
 * [Interstellar](https://github.com/BalaM314/Interstellar): an awesome Discord theme.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod. No longer developed.
 * [No Invasions](https://github.com/BalaM314/no-invasions): a Mindustry mod that disables sector invasions. Very small.
-* [No Invasions](https://github.com/BalaM314/flarogus): a Mindustry mod that adds flarogus. Somewhat small.
+* [Flarogus Mod](https://github.com/BalaM314/flarogus): a Mindustry mod that adds flarogus. Somewhat small.
 ## Programming languages I know
 
 Really well:
