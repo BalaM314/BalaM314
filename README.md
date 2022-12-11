@@ -16,7 +16,7 @@ Typescript developer making cool stuff.
 * [Pasapapor](https://github.com/BalaM314/pasapapor): A tool that lets you open past papers quicker. Co-developed with [@Rithish288](https://github.com/Rithish288)
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
 * [count lines cli](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
-* [is-console-open](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
+* [is-console-open](https://github.com/BalaM314/is-console-open): a very small webpage that uses JS shenanigans to detect if you opened the browser console.
 * [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar](https://github.com/BalaM314/Interstellar): an awesome Discord theme.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod. No longer developed.
