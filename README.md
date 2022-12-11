@@ -25,14 +25,18 @@ Typescript developer making cool stuff.
 * [Flarogus Texture](https://github.com/BalaM314/flarogus-texture): a Mindustry mod that adds flarogus, but differently. Very small.
 ## Programming languages I know
 
-Really well:
+Extremely well:
 * Javascript: second best language of all time
 * Typescript: MOST EPIC LANGUAGE OF ALL TIME
+
+Really well:
 * HTML: definitely a programming language
+
+Well:
+* Java: not as bad as I thought it was.
 
 Decently:
 * CSS: is extremely painful
-* Java: not as bad as I thought it was.
 * Python: yes I am the only person in the entire universe that doesn't like python.
 * I made stuff on an arduino a long time back so I technically know C?
 * Rust: am still learning it. Looks really good.
