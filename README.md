@@ -36,6 +36,7 @@ Well:
 * Java: not as bad as I thought it was.
 
 Decently:
+* JSX/React: yes, I have 420 years of React experience
 * CSS: is extremely painful
 * Python: yes I am the only person in the entire universe that doesn't like python.
 * I made stuff on an arduino a long time back so I technically know C?
