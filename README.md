@@ -43,5 +43,6 @@ Decently:
 * Rust: am still learning it. Looks really good.
 * mlogx: I put my own language here lol
 
-## Mental state
+
+
 ![image](https://media.discordapp.net/attachments/859537742890401822/985915908247662592/unknown.png?width=530&height=418)
