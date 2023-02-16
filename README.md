@@ -14,10 +14,11 @@ Typescript developer making cool stuff.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
 * [Pasapapor](https://balam314.github.io/pasapapor): A tool that lets you open past papers quicker. Co-developed with [@Rithish288](https://github.com/Rithish288)
+* [cpu-sim](https://github.com/BalaM314/cpu-sim): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
+* [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
 * [count lines cli](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
 * [is-console-open](https://github.com/BalaM314/is-console-open): a very small webpage that uses JS shenanigans to detect if you opened the browser console.
-* [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar](https://github.com/BalaM314/Interstellar): an awesome Discord theme.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft meme mod. No longer developed.
 * [No Invasions](https://github.com/BalaM314/no-invasions): a Mindustry mod that disables sector invasions. Very small.
