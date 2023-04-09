@@ -10,6 +10,7 @@ Typescript developer making cool stuff.
 * [msch](https://github.com/BalaM314/msch): An NPM package (javascript library) for parsing Mindustry schematics.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 * [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I used while playing Mindustry.
+* [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [Flarogus Client](https://github.com/StormyBytes/mindustry-client): A fork of a fork of a fork of the Mindustry client. Most of it was made by buthed010203, zxtej, and StormyBytes, but I helped a bit.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
