@@ -46,7 +46,7 @@ Hi there! I'm a full stack Typescript developer.
 ## Large Projects
 * [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): Factory building game in the alpha stage.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
-* [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with @Vedanth-Ramji under the guidance of Dr. Natarajan of @Queromatics
+* [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
 * [fish-commands](https://github.com/BalaM314/fish-commands/tree/commands-rewrite): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
 * [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
