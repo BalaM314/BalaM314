@@ -1,20 +1,65 @@
-# Hello, I'm BalaM314!
-Typescript developer making cool stuff.
+# Hello!
+Hi there! I'm a full stack Typescript developer.
+## Tools and languages
+<a href="https://typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+</a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+</a>
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
+</a>
+<a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg" alt="Jasmine" width="40" height="40"/>
+</a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> 
+</a>
+
+## Skills
+* Backend development / systems programming with TypeScript or Javascript and NodeJS
+* Frontend development with Typescript, Javascript, HTML, CSS, and React/JSX
+* Game development with Typescript, Java
+
 ## Large Projects
-* [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): epic factory building game that's in early alpha.
+* [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): Factory building game in the alpha stage.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
-* [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Nomifactory minecraft modpack with tweaks that I like.
+* [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with @Vedanth-Ramji under the guidance of Dr. Natarajan of @Queromatics
+* [fish-commands](https://github.com/BalaM314/fish-commands/tree/commands-rewrite): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
+* [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
 * [msch-generate](https://github.com/BalaM314/msch-generate): An (unfinished) tool to build Mindustry schematics automatically.
 * [Extensions](https://github.com/BalaM314/extensions): An (unfinished) Mindustry mod.
 * [msch](https://github.com/BalaM314/msch): An NPM package (javascript library) for parsing Mindustry schematics.
-* [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
+* [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Nomifactory minecraft modpack with tweaks that I like.
 * [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I used while playing Mindustry.
-* [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [Flarogus Client](https://github.com/StormyBytes/mindustry-client): A fork of a fork of a fork of the Mindustry client. Most of it was made by buthed010203, zxtej, and StormyBytes, but I helped a bit.
+* [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
-* [Pasapapor](https://balam314.github.io/pasapapor): A tool that lets you open past papers quicker. Co-developed with [@Rithish288](https://github.com/Rithish288)
+* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that lets you open CAIE past papers quicker. Co-developed with [@Rithish288](https://github.com/Rithish288)
 * [cpu-sim](https://github.com/BalaM314/cpu-sim): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
 * [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
@@ -25,26 +70,3 @@ Typescript developer making cool stuff.
 * [No Invasions](https://github.com/BalaM314/no-invasions): a Mindustry mod that disables sector invasions. Very small.
 * [Flarogus Mod](https://github.com/BalaM314/flarogus-mod): a Mindustry mod that adds flarogus. Somewhat small.
 * [Flarogus Texture](https://github.com/BalaM314/flarogus-texture): a Mindustry mod that adds flarogus, but differently. Very small.
-## Programming languages I know
-
-Extremely well:
-* Javascript: second best language of all time
-* Typescript: MOST EPIC LANGUAGE OF ALL TIME
-
-Really well:
-* HTML: definitely a programming language
-
-Well:
-* Java: not as bad as I thought it was.
-
-Decently:
-* JSX/React: yes, I have 420 years of React experience
-* CSS: is extremely painful
-* Python: yes I am the only person in the entire universe that doesn't like python.
-* I made stuff on an arduino a long time back so I technically know C?
-* Rust: am still learning it. Looks really good.
-* mlogx: I put my own language here lol
-
-
-
-![image](https://media.discordapp.net/attachments/859537742890401822/985915908247662592/unknown.png?width=530&height=418)
