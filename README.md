@@ -48,6 +48,7 @@ Hi there! I'm a full stack Typescript developer.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
 * [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
 * [fish-commands](https://github.com/BalaM314/fish-commands/tree/commands-rewrite): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
+* [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client): A Mindustry client with many QoL features. Most of it was made by other people but I added some features and do some maintenance.
 * [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
 * [msch-generate](https://github.com/BalaM314/msch-generate): An (unfinished) tool to build Mindustry schematics automatically.
@@ -55,7 +56,6 @@ Hi there! I'm a full stack Typescript developer.
 * [msch](https://github.com/BalaM314/msch): An NPM package (javascript library) for parsing Mindustry schematics.
 * [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Nomifactory minecraft modpack with tweaks that I like.
 * [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I used while playing Mindustry.
-* [Flarogus Client](https://github.com/StormyBytes/mindustry-client): A fork of a fork of a fork of the Mindustry client. Most of it was made by buthed010203, zxtej, and StormyBytes, but I helped a bit.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
@@ -70,3 +70,5 @@ Hi there! I'm a full stack Typescript developer.
 * [No Invasions](https://github.com/BalaM314/no-invasions): a Mindustry mod that disables sector invasions. Very small.
 * [Flarogus Mod](https://github.com/BalaM314/flarogus-mod): a Mindustry mod that adds flarogus. Somewhat small.
 * [Flarogus Texture](https://github.com/BalaM314/flarogus-texture): a Mindustry mod that adds flarogus, but differently. Very small.
+* [Directional Router](https://github.com/BalaM314/directional-router-mod): a Mindustry mod that adds a directional router to Serpulo. Very small.
+* [Legacy Textures](https://github.com/BalaM314/legacy-textures): a Mindustry mod that restores textures to their old versions (pre-136).
