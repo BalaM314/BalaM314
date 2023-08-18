@@ -61,7 +61,7 @@ Hi there! I'm a full stack Typescript developer.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
-* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that lets you open CAIE past papers quicker. Co-developed with [@Rithish288](https://github.com/Rithish288)
+* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that lets you open CAIE past papers quicker. Some help from [@Rithish288](https://github.com/Rithish288)
 * [cpu-sim](https://github.com/BalaM314/cpu-sim): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
 * [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
