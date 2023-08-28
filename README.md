@@ -50,6 +50,7 @@ Hi there! I'm a full stack Typescript developer.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
 * [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
 * [fish-commands](https://github.com/BalaM314/fish-commands): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
+* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that helps you open CAIE past papers, and other materials.
 * [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client): A Mindustry client with many QoL features. Most of it was made by other people but I added some features and do some maintenance.
 * [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
@@ -61,7 +62,6 @@ Hi there! I'm a full stack Typescript developer.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
-* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that lets you open CAIE past papers quicker. Some help from [@Rithish288](https://github.com/Rithish288)
 * [cpu-sim](https://github.com/BalaM314/cpu-sim): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
 * [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
