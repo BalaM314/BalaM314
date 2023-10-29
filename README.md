@@ -46,13 +46,13 @@ Hi there! I'm a full stack Typescript developer.
 
 ## Large Projects
 * I have built and deployed (from scratch) a full stack application that managed registrations and automatically generated printouts for a large event. (closed source)
-* [Untitled Electron Game](https://github.com/BalaM314/Untitled-Electron-Game): Factory building game in the alpha stage.
+* [Untitled Electron Game](https://balam314.github.io/Untitled-Electron-Game/): Factory building game in the alpha stage.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
 * [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
 * [fish-commands](https://github.com/BalaM314/fish-commands): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
-* [Pasapapor](https://balam314.github.io/pasapapor): A studying tool that helps you open CAIE past papers, and other materials.
+* [Pasapapor](https://balam314.github.io/pasapapor/): A studying tool that helps you open CAIE past papers, and other materials.
 * [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client): A Mindustry client with many QoL features. Most of it was made by other people but I added some features and do some maintenance.
-* [soodocode](https://github.com/BalaM314/soodocode): An (unfinished) runtime for Cambridge CS pseudocode syntax.
+* [soodocode](https://balam314.github.io/soodocode/): An (unfinished) runtime for Cambridge CS pseudocode syntax.
 * [MindustryLauncher](https://github.com/BalaM314/MindustryLauncher): a command-line launcher for Mindustry.
 * [msch-generate](https://github.com/BalaM314/msch-generate): An (unfinished) tool to build Mindustry schematics automatically.
 * [Extensions](https://github.com/BalaM314/extensions): An (unfinished) Mindustry mod.
@@ -62,8 +62,8 @@ Hi there! I'm a full stack Typescript developer.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a NuclearCraft reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
-* [cpu-sim](https://github.com/BalaM314/cpu-sim): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
-* [ComplexGrapher](https://github.com/BalaM314/ComplexGrapher): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
+* [cpu-sim](https://balam314.github.io/cpu-sim/): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
+* [ComplexGrapher](https://balam314.github.io/ComplexGrapher/): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
 * [count lines cli](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
 * [is-console-open](https://github.com/BalaM314/is-console-open): a very small webpage that uses JS shenanigans to detect if you opened the browser console.
