@@ -45,7 +45,7 @@ Hi there! I'm a full stack Typescript developer.
 * Game development with Typescript, Java
 
 ## Large Projects
-* I have built and deployed (from scratch) a full stack application that managed registrations and automatically generated printouts for a large event. (closed source)
+* I have designed, built, deployed, and maintained (from scratch) a website and full stack application that managed registrations and automatically generated printouts for a large event. (closed source)
 * [Untitled Electron Game](https://balam314.github.io/Untitled-Electron-Game/): Factory building game in the alpha stage.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
 * [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
