@@ -44,6 +44,7 @@ Hi there! I'm a full stack Typescript developer.
 * Frontend development with Typescript, Javascript, HTML, CSS, and React/JSX
 * Game development with Typescript, Java
 * Blue team (cybersecurity)
+* Modernizing legacy codebases with a total rewrite
 
 ## Accomplishments
 
