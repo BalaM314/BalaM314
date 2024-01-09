@@ -54,7 +54,7 @@ Hi there! I'm a full stack Typescript developer.
 ## Large Projects
 * [Untitled Electron Game](https://balam314.github.io/Untitled-Electron-Game/): Factory building game in the alpha stage.
 * [mlogx](https://github.com/BalaM314/mlogx): A transpiler for Mindustry Logic.
-* [CancerStop](https://cancerstop.dev/): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
+* [CancerStop](https://cancerstop.dev/?ref=gh): A quick reference guide to information on different cancers, made with [@Vedanth-Ramji](https://github.com/Vedanth-Ramji) under the guidance of Dr. Natarajan from [Queromatics](https://www.queromatics.org/)
 * [fish-commands](https://github.com/BalaM314/fish-commands): A plugin for a Mindustry game server that allowed me to develop the skill of porting legacy codebases.
 * [Pasapapor](https://balam314.github.io/pasapapor/): A studying tool that helps you open CAIE past papers, and other materials.
 * [Foo's Client](https://github.com/mindustry-antigrief/mindustry-client): A Mindustry client with many QoL features. Most of it was made by other people but I added some features and do some maintenance.
