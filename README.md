@@ -69,7 +69,7 @@ Hi there! I'm a full stack Typescript developer.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
 * [cpu-sim](https://balam314.github.io/cpu-sim/): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
-* [ComplexGrapher](https://balam314.github.io/ComplexGrapher/): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
+* [ComplexGrapher](https://balam314.github.io/ComplexGrapher/ComplexGrapher.html): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
 * [count lines cli](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
 * [is-console-open](https://github.com/BalaM314/is-console-open): a very small webpage that uses JS shenanigans to detect if you opened the browser console.
