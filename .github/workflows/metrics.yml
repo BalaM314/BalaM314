@@ -20,7 +20,7 @@ jobs:
       - name: Update metrics
         uses: BalaM314/metrics@master
         with:
-          token: ${{ secrets.METRICS }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           plugins_errors_fatal: yes
 
