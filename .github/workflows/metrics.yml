@@ -62,15 +62,26 @@ jobs:
           plugin_lines: yes
 
           # People (followers and such)
-          # plugin_people: yes
-          # plugin_people_limit: 28
-          # plugin_people_size: 28
-          # plugin_people_types: followers, following
+          plugin_people: yes
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_types: followers
 
           # Stargazers
           plugin_stargazers: yes
 
-          # Projects
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          # Notable contributions
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
 
+          # Reactions
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
+
+          # Traffic
+          plugin_traffic: yes
