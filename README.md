@@ -43,7 +43,6 @@ Hi there! I'm a full stack Typescript developer.
 * Backend development / systems programming with TypeScript or Javascript and NodeJS
 * Frontend development with Typescript, Javascript, HTML, CSS, and React/JSX
 * Game development with Typescript, Java
-* Blue team (cybersecurity)
 * Modernizing legacy codebases with a total rewrite
 
 ## Accomplishments
@@ -80,3 +79,5 @@ Hi there! I'm a full stack Typescript developer.
 * [Flarogus Texture](https://github.com/BalaM314/flarogus-texture): a Mindustry mod that adds flarogus, but differently. Very small.
 * [Directional Router](https://github.com/BalaM314/directional-router-mod): a Mindustry mod that adds a directional router to Serpulo. Very small.
 * [Legacy Textures](https://github.com/BalaM314/legacy-textures): a Mindustry mod that restores textures to their old versions (pre-136).
+
+![metrics](github-metrics.svg)
