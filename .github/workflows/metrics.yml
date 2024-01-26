@@ -72,7 +72,9 @@ jobs:
 
           # Notable contributions
           plugin_notable: yes
-          plugin_notable_from: organization
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_notable_skipped: CancerStop/CancerStop
           plugin_notable_types: commit
 
           # Reactions
