@@ -74,7 +74,11 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_skipped: CancerStop/CancerStop
+          plugin_notable_skipped:
+            CancerStop/CancerStop
+            mindustry-antigrief/mindustry-client-v7-builds
+            Brandons404/easyDiscordPlugin
+            Jurorno9/Fish_Maps
           plugin_notable_types: commit
 
           # Reactions
