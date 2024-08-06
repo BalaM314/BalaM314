@@ -53,7 +53,7 @@ Hi there! I'm a full stack Typescript developer.
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python.org" width="40" height="40"/> 
 </a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"> 
+<a href="https://balam314.github.io/flarogus.html" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/BalaM314/flarogus-texture/master/sprites-override/units/flare.png" alt="Flarogus?" width="40" height="40"/> 
 </a>
 
