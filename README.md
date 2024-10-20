@@ -82,16 +82,18 @@ Hi there! I'm a full stack Typescript developer.
 * [Extensions](https://github.com/BalaM314/extensions): An (unfinished) Mindustry mod.
 * [msch](https://github.com/BalaM314/msch): An NPM package (javascript library) for parsing Mindustry schematics, used by msch-generate.
 * [Omnifactory Tweaked](https://github.com/BalaM314/Omnifactory-Tweaked): a fork of the Nomifactory minecraft modpack with some changes.
-* [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I use while playing Mindustry.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a [NuclearCraft](https://modrinth.com/mod/nuclearcraft) reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
 * [cpu-sim](https://balam314.github.io/cpu-sim/): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
 * [ComplexGrapher](https://balam314.github.io/ComplexGrapher/ComplexGrapher.html): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
+* [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I use while playing Mindustry.
 * [Interstellar-vscode](https://github.com/BalaM314/interstellar-vscode): my VS Code theme.
 * [count-lines-cli](https://github.com/BalaM314/count-lines-cli): a very small NPM script that counts lines in files.
 * [is-console-open](https://github.com/BalaM314/is-console-open): a very small webpage that uses JS shenanigans to detect if you opened the browser console.
 * [Interstellar](https://github.com/BalaM314/Interstellar): a Discord theme.
+* [balam314.github.io](https://github.com/BalaM314/balam314.github.io): my website.
+* [Canvas Sandbox](https://balam314.github.io/canvas.html): a webpage useful for testing things with the HTML5 Canvas API.
 * [TestMod1](https://github.com/BalaM314/TestMod1): a Minecraft joke mod. No longer developed.
 * [No Invasions](https://github.com/BalaM314/no-invasions): a Mindustry mod that disables sector invasions. Very small.
 * [Flarogus Mod](https://github.com/BalaM314/flarogus-mod): a Mindustry mod that adds flarogus. Somewhat small.
