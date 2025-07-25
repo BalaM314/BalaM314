@@ -85,6 +85,7 @@ Hi there! I'm a full stack Typescript developer.
 * [Einsteinium](https://github.com/BalaM314/Einsteinium): a [NuclearCraft](https://modrinth.com/mod/nuclearcraft) reactor planner.
 ### Smaller projects
 * [cli-app](https://github.com/BalaM314/cli-app): An NPM package (javascript library) for creating command-line applications.
+* [physics](https://balam314.github.io/physics-ts/): An experimental 2D physics engine.
 * [cpu-sim](https://balam314.github.io/cpu-sim/): A CPU simulator and assembler. I made this to learn more about compilers, assemblers, and machine code.
 * [ComplexGrapher](https://balam314.github.io/ComplexGrapher/ComplexGrapher.html): a "graphing calculator" for complex numbers. Hard to understand, but definitely looks cool.
 * [mlog](https://github.com/BalaM314/mlog): A collection of MLOG programs that I use while playing Mindustry.
